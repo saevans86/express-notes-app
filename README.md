@@ -39,16 +39,19 @@ https://expressjs.com/en/starter/installing.html
 https://www.npmjs.com/package/nodemon?_blank
 
 ### Visit the link to use the web based version of this app!
-expressnoteappprod.up.railway.app
 
 
+[Click me to see the deployed page on Railway](https://expressnoteappprod.up.railway.app/)
 
 ## Usage 
-I've provided a short video to show the functionality of this note taking app. 
+I've provided a short video to and screenshot to show the functionality of this note taking app. 
+
+![Screenshot 2023-09-01 093000](https://github.com/saevans86/express-notes-app/assets/130856120/a7ffb46a-a91f-4794-887c-b0b45c12ccd8)
 
 
+https://github.com/saevans86/express-notes-app/assets/130856120/9792f576-634f-498c-8db7-18038f397bd3
 
-    
+
 
 ## Credits 
 You can find the base codes of this project which was created by https://github.com/coding-boot-camp, the base code can be found at https://github.com/coding-boot-camp/miniature-eureka
