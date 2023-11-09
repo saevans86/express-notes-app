@@ -42,11 +42,12 @@ https://www.npmjs.com/package/nodemon?_blank
 
 
 [Click me to see the deployed page on Railway](https://expressnoteappprod.up.railway.app/)
+Railway Link disabled due to free credits used. 
 
 ## Usage 
 I've provided a short video to and screenshot to show the functionality of this note taking app. 
 
-![Screenshot 2023-09-01 093000](https://github.com/saevans86/express-notes-app/assets/130856120/a7ffb46a-a91f-4794-887c-b0b45c12ccd8)
+![Screenshot 2023-11-09 081645](https://github.com/saevans86/express-notes-app/assets/130856120/de2c62a9-cd17-48ec-92b4-bd0759b0b4b3)
 
 
 https://github.com/saevans86/express-notes-app/assets/130856120/9792f576-634f-498c-8db7-18038f397bd3
